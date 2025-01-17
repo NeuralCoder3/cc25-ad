@@ -1,3 +1,12 @@
 [submodule "Enzyme"]
 	path = Enzyme
 	url = https://github.com/EnzymeAD/Enzyme.git
+[submodule "mount/impala"]
+	path = mount/impala
+	url = git@github.com:NeuralCoder3/impala.git
+[submodule "mount/impala-adbench"]
+	path = mount/impala-adbench
+	url = git@github.com:NeuralCoder3/adbench-thorin.git
+[submodule "mount/thorin2"]
+	path = mount/thorin2
+	url = git@github.com:NeuralCoder3/thorin2.git
