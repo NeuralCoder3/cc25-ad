@@ -9,7 +9,7 @@ For our experiments, we use Docker, to make replicating the results easier.
 The results will be placed in `./output` and `./output.txt`.
 
 Github: https://github.com/NeuralCoder3/cc25-ad
-Zenodo: 10.5281/zenodo.14681110
+Zenodo: 10.5281/zenodo.14681335
 
 ## Information about the artifact
 
