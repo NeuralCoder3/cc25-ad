@@ -6,11 +6,14 @@ To run, execute `evaluate.sh` on a linux.
 This script will call the necessary other scripts.
 For our experiments, we use Docker, to make replicating the results easier.
 
-The results will be placed in `./output`.
+The results will be placed in `./output` and `./output.txt`.
+
+Github: https://github.com/NeuralCoder3/cc25-ad
+Zenodo: 10.5281/zenodo.14681110
 
 ## Information about the artifact
 
 Necessary Programs:
 - Docker
 - [metrix++](https://metrixplusplus.github.io/metrixplusplus/docs/02-u-download-install)
-
+- python 3.10

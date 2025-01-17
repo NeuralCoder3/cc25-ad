@@ -19,7 +19,7 @@ do
 done
 
 function container_run {
-    sudo docker run -v "`pwd`/scripts:/scripts" -v "`pwd`/Enzyme:/Enzyme" -v "`pwd`/mount:/app" --user $(id -u) fodinabor/llvm-dev:14-noble "$@"
+    docker run -v "`pwd`/scripts:/scripts" -v "`pwd`/Enzyme:/Enzyme" -v "`pwd`/mount:/app" --user $(id -u) fodinabor/llvm-dev:14-noble "$@"
 }
 
 echo "Building Enzyme and MimIR"
