@@ -10,3 +10,7 @@ The results will be placed in `./output`.
 
 ## Information about the artifact
 
+Necessary Programs:
+- Docker
+- [metrix++](https://metrixplusplus.github.io/metrixplusplus/docs/02-u-download-install)
+

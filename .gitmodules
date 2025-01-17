@@ -10,3 +10,6 @@
 [submodule "mount/thorin2"]
 	path = mount/thorin2
 	url = git@github.com:NeuralCoder3/thorin2.git
+[submodule "AD"]
+	path = AD
+	url = https://github.com/NeuralCoder3/thorin2.git
